@@ -52,7 +52,7 @@
     "fs-utils": "^0.4.1",
     "gray-matter": "^0.3.5",
     "handlebars": "^2.0.0-alpha.2",
-    "handlebars-helpers": "git://github.com/samtiffin/handlebars-helpers#v0.6.0",
+    "handlebars-helpers": "git://github.com/samtiffin/handlebars-helpers#hacky-fix",
     "lodash": "^2.4.1",
     "logme": "git://github.com/doowb/logme#verbose",
     "plasma": "^0.2.7",
